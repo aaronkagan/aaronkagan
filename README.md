@@ -4,7 +4,7 @@
 
 - 📡 Reach me at: aaronkagan@yahoo.com
 - 🌱 Life, Love, Brazilian Jiu-Jitsu
-<!-- - 📖 I’m currently reading "Algorithm Design" by Jon Kleinberg and Eva Tardos ->
+<!-- - 📖 I’m currently reading "Algorithm Design" by Jon Kleinberg and Eva Tardos -->
 
 ---
 <h3 align="center"> I work with </h3>
