@@ -3,7 +3,7 @@
 <h2 align="center"> Full-Stack Developer </h2>
 
 - 📡 Reach me at: aaronkagan@yahoo.com
-- 🌱 Life, Love, Brazilian Jiu-Jitsu
+- 🌱 I'm interested in Life, Love, Brazilian Jiu-Jitsu
 <!-- - 📖 I’m currently reading "Algorithm Design" by Jon Kleinberg and Eva Tardos -->
 
 ---
