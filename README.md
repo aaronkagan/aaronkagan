@@ -23,6 +23,7 @@
 </div>
 
 ---
+
 <h3 align="center"> I'm learning </h3>
 <div align="center">
 <!-- <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> -->
@@ -30,6 +31,10 @@
 
 <!-- <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> -->
 </div>
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronkagan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **aaronkagan/aaronkagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
