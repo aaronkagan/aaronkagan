@@ -1,6 +1,6 @@
 
-<h1 align="center"> Aaron Kagan </h1>
-<h2 align="center"> Full-Stack Developer </h2>
+<h1 align="center">Aaron Kagan</h1>
+<h2 align="center">Web Developer</h2>
 
 - 📫 Reach me at: aaronkagandev@gmail.com, www.aaronkagan.dev
 - ❤️‍🔥 I'm passionate about: Becoming the best developer I can be!
