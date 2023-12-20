@@ -2,7 +2,7 @@
 <h1 align="center">Aaron Kagan</h1>
 <h2 align="center">Web Developer</h2>
 
-- 📫 Reach me at: aaronkagandev@gmail.com, www.aaronkagan.dev
+- 📫 Reach me at: aaronkagan@yahoo.com, www.aaronkagan.dev
 - ❤️‍🔥 I'm passionate about: Becoming the best developer I can be!
 - 🌱 I'm interested in: Beatifully designed UIs, Clean APIs, Brazilian Jiu-Jitsu
 <!-- - 📖 I’m currently reading "Algorithm Design" by Jon Kleinberg and Eva Tardos -->
@@ -20,6 +20,8 @@
 <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+<img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
+</div>
 </div>
 
 ---
@@ -34,9 +36,7 @@
 
 <!-- <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" /> -->       
 <!-- <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /> -->
-          
-<img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
-</div>
+
 
 ---
 <!--
