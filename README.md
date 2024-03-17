@@ -2,7 +2,7 @@
 <h1 align="center">Aaron Kagan</h1>
 <h2 align="center">Web Developer</h2>
 
-- 📫 Reach me at: aaronkagan@yahoo.com, www.aaronkagan.dev
+- 📫 Reach me at: aaronkagan@gmail.com, www.aaronkagan.dev
 - ❤️‍🔥 I'm passionate about: Becoming the best developer I can be!
 - 🌱 I'm interested in: Beatifully designed UIs, Clean APIs, Brazilian Jiu-Jitsu
 <!-- - 📖 I’m currently reading "Algorithm Design" by Jon Kleinberg and Eva Tardos -->
